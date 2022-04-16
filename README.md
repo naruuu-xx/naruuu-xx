@@ -1,4 +1,4 @@
-# naruuu-xx-
+# naruuu-xx
 - java 搬砖工，啥都会一点==啥都不会
 - python、java、MATLAB，js在学了在学了。
 - 要学的太多了，最近疯狂补基础。
