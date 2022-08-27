@@ -3,7 +3,6 @@
 - python、java、MATLAB，js在学了在学了。
 - 要学的太多了，最近疯狂补基础。
 - 东西尽量往 github 搬运中。
-- 作业有偿代写，python，java一对一辅导请微信联系我：@Nruuu345（标明来意）不接论文。
 
 
 ## Brave girls learn to code 
